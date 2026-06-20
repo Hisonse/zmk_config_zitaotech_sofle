@@ -11,7 +11,7 @@ layers:
   - F4
   - F5
   - BT CLR
-  - POWER
+  - '&power_button'
   - F6
   - F7
   - F8
