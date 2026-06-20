@@ -132,11 +132,11 @@
             label = "MACRO_POWER_BUTTON";
         };
 
-        Macro_ctrl_e: Macro_my_computer {
+        Macro_ctrl_e: Macro_ctrl_e {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LC(E)>;
-            label = "MACRO_MY_COMPUTER";
+            label = "MACRO_CTRL_E";
         };
     };
 
