@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: zitaotech_sofle}
 layers:
-  QWERTY: [ESC, '1', '2', '3', '4', '5', MUTE, '&Macro_ctrl_e', '6', '7', '8', '9', '0', BSPC, TAB, Q, W, E, R, T, Y, U, I, O, P, \, LEFT SHIFT, A, S, D, F, G, '&mkp
+  QWERTY: [ESC, '1', '2', '3', '4', '5', MUTE, '&Macro_win_e', '6', '7', '8', '9', '0', BSPC, TAB, Q, W, E, R, T, Y, U, I, O, P, \, LEFT SHIFT, A, S, D, F, G, '&mkp
       LCLK', '&mkp LCLK', H, J, K, L, ;, ENTER, LEFT CONTROL, Z, X, C, V, B, PG DN, PG UP, '&msc SCRL_DOWN', '&msc SCRL_UP', N, M, ',', ., /, RSHIFT, LEFT CONTROL,
     LGUI, LALT, SPACE, LOWER, LOWER, SPACE, '-', '=', '`']
   LOWER:
