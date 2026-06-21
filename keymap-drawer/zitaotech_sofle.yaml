@@ -30,7 +30,7 @@ layers:
   - {t: ▽, type: trans}
   - HOME
   - \
-  - CAPS
+  - LEFT SHIFT
   - LEFT
   - DOWN
   - RIGHT
@@ -44,7 +44,7 @@ layers:
   - {t: ▽, type: trans}
   - ''''
   - ENTER
-  - LSHFT
+  - LEFT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
