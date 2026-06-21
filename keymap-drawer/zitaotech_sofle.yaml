@@ -164,7 +164,7 @@ layers:
   - O
   - P
   - \
-  - CAPS
+  - LEFT SHIFT
   - A
   - S
   - D
@@ -178,7 +178,7 @@ layers:
   - L
   - ;
   - ENTER
-  - LSHFT
+  - LEFT CONTROL
   - Z
   - X
   - C
